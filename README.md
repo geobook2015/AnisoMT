@@ -3,11 +3,7 @@ Magnetotelluric 2D modeling for anisotropic Earth
 
 Reference:
 
-==================================================
-==================================================
-Modular Approach to MT 2D Anisotropic Modeling
-==================================================
-==================================================
+# Modular Approach to MT 2D Anisotropic Modeling
 
 AUTHORS
 
@@ -24,32 +20,32 @@ AUTHORS
 
 ==================================================
 
-OBTAINING THE SOFTWARE
+OBTAINING THE SOFTWARE  
 
-The Software (specifically, 2D MT anisotropic modeling) are 
-available for non-commercial and academic use subject to the 
-license agreement in the attached Copyright statement. 
+The Software (specifically, 2D MT anisotropic modeling) are   
+available for non-commercial and academic use subject to the   
+license agreement in the attached Copyright statement.   
 
-Obtain the source code from https://github.com/Zeqiu/AnisoMT, 
+Obtain the source code from https://github.com/Zeqiu/AnisoMT,   
 or by command: git clone https://github.com/Zeqiu/AnisoMT.git
 
 ==================================================
 
-INSTALLATION AND USAGE
+INSTALLATION AND USAGE  
 
-  This MATLAB package is programmed under object-oriented paradigm, 
-  to install it, just include all the directories in MATLAB PATH.
+  This MATLAB package is programmed under object-oriented paradigm,   
+  to install it, just include all the directories in MATLAB PATH.  
   
-  To start, change to 'Test' directory to prepare model input
-  files and run the driver script. This is still an onging project,
-  and many pre-/post-processing routines should be added in the future.  
+  To start, change to 'Test' directory to prepare model input  
+  files and run the driver script. This is still an onging project,  
+  and many pre-/post-processing routines should be added in the future.    
 
 ==================================================
 
-BUG REPORTS AND FEATURE REQUESTS
+BUG REPORTS AND FEATURE REQUESTS  
 
-If you find a reproducible bug, please let us know. The authors will try to
-reproduce and eliminate the bug. Feature requests will be noted and possibly 
-implemented sooner or later.
+If you find a reproducible bug, please let us know. The authors will try to  
+reproduce and eliminate the bug. Feature requests will be noted and possibly   
+implemented sooner or later.  
 
 ==================================================
