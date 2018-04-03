@@ -4,20 +4,22 @@ Magnetotelluric 2D modeling for anisotropic Earth
 Reference:
 
 ==================================================
+==================================================
 Modular Approach to MT 2D Anisotropic Modeling
+==================================================
 ==================================================
 
 AUTHORS
 
-  Zeqiu Guo, Gary Egbert & Wenbo Wei
-  Institute for Disaster Management and Reconstruction,
-    Sichuan University, Chengdu, 610207, China 
-  School of Geophysics and Information Technology,
-    China University of Geosciences, Beijing, 100083, China
-  College of Earth, Ocean and Atmospheric Sciences, 
+  Zeqiu Guo, Gary Egbert & Wenbo Wei  
+  Institute for Disaster Management and Reconstruction,  
+    Sichuan University, Chengdu, 610207, China  
+  School of Geophysics and Information Technology,  
+    China University of Geosciences, Beijing, 100083, China  
+  College of Earth, Ocean and Atmospheric Sciences,   
     Oregon State University, Corvallis, OR 97331-5503, USA  
   
-  Email: zeqiu_guo@hotmail.com
+  Email: zeqiu_guo@hotmail.com  
          egbert@coas.oregonstate.edu
 
 ==================================================
