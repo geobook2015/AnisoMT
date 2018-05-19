@@ -1,7 +1,7 @@
 # AnisoMT
 Magnetotelluric 2D modeling for anisotropic Earth
 
-Reference:
+Reference: Guo Z., Egbert G., Wei W., 2018. Modular implementation of magnetotelluric 2D forward modeling with general anisotropy. Computers & Geosciences (online). 10.1016/j.cageo.2018.05.004
 
 # Modular Approach to MT 2D Anisotropic Modeling
 
